@@ -12,10 +12,12 @@
 
     👉 Ready to explore and create with us? Click [|link_sf_facebook|] and join today!
 
-SunFounder Elite Explorer Kit
+SunFounder |link_Elite_Explorer_kit|
 =======================================================
 
-Thanks for choosing our Elite Explorer Kit.
+* |link_Elite_kit|
+
+Thanks for choosing our |link_Elite_Explorer_kit|.
 
 .. note::
     This document is available in the following languages.
