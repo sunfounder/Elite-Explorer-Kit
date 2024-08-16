@@ -372,12 +372,13 @@ rst_epilog = """
 
 rst_epilog += """
  
+.. |link_Elite_kit| raw:: html
+
+    <a href="https://www.sunfounder.com/collections/arduino-kits/products/sunfounder-elite-explorer-kit-with-official-arduino-uno-r4-wifi?ref=tiktok1" target="_blank">購入リンク： Elite Explorer Kit</a>
+
 .. |link_Elite_Explorer_kit| raw:: html
 
-    <a href="https://www.sunfounder.com/products/sunfounder-elite-explorer-kit-with-official-arduino-uno-r4-wifi" target="_blank">Elite Explorer Kit</a>
-
-    
-
+    <a href="https://www.sunfounder.com/collections/arduino-kits/products/sunfounder-elite-explorer-kit-with-official-arduino-uno-r4-wifi?ref=tiktok1" target="_blank">Elite Explorer Kit</a>
 
 .. |link_Uno_R3_buy| raw:: html
 
