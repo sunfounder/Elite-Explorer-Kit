@@ -116,7 +116,7 @@ Analyse du code
    .. code-block:: arduino
     
       #include <DHT.h>
-      #define DHTPIN 2       // Définir la broche utilisée pour connecter le capteur
+      #define DHTPIN 11       // Définir la broche utilisée pour connecter le capteur
       #define DHTTYPE DHT11  // Définir le type de capteur
 
 #. Création de l'objet DHT.
