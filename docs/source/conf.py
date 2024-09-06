@@ -23,6 +23,10 @@ project = 'SunFounder Elite Explorer Kit'
 copyright = f'{time.localtime().tm_year}, SunFounder'
 author = 'www.sunfounder.com'
 
+# -- sphinx_rtd_theme Theme options -----------------------------------------------------
+html_theme_options = {
+    'flyout_display': 'attached'
+}
 
 # -- General configuration ---------------------------------------------------
 
@@ -31,7 +35,8 @@ author = 'www.sunfounder.com'
 # ones.
 extensions = [
     'sphinx.ext.autosectionlabel',
-    'sphinx_copybutton'
+    'sphinx_copybutton',
+    'sphinx_rtd_theme'
 ]
 
 # Add any paths that contain templates here, relative to this directory.
@@ -57,7 +62,7 @@ html_theme_path = [sphinx_rtd_theme.get_html_theme_path()]
 
 html_js_files = [
    'https://ezblock.cc/readDocFile/custom.js',
-    './lang.js', # new
+   './lang.js', # new
 ]
 html_css_files = [
    'https://ezblock.cc/readDocFile/custom.css',
@@ -88,7 +93,7 @@ html_css_files = [
 
 # Multi-language
 
-language = 'de' # Before running make html, set the language.
+language = 'ja' # Before running make html, set the language.
 locale_dirs = ['locale/'] # .po files for other languages are placed in the locale/ folder.
 
 gettext_compact = False # Support for generating the contents of the folders inside source/ into other languages.
@@ -101,7 +106,7 @@ rst_epilog = """
 
 .. |link_sf_facebook| raw:: html
 
-    <a href="https://bit.ly/raphaelkit" target="_blank">hier</a>
+    <a href="https://bit.ly/raphaelkit" target="_blank"> ここ</a>
 
 .. |link_german_tutorials| raw:: html
 
@@ -117,7 +122,7 @@ rst_epilog = """
 
 .. |link_fr_tutorials| raw:: html
 
-    <a href="https://docs.sunfounder.com/projects/elite-explorer-kit/en/latest/" target="_blank">Tutoriels en ligne en français</a>
+    <a href="https://docs.sunfounder.com/projects/elite-explorer-kit/fr/latest/" target="_blank">utoriels en ligne en français</a>
 
 .. |link_es_tutorials| raw:: html
 
@@ -125,8 +130,7 @@ rst_epilog = """
 
 .. |link_it_tutorials| raw:: html
 
-    <a href="https://docs.sunfounder.com/projects/elite-explorer-kit/fr/latest/" target="_blank">Corsi di italiano online</a>
-
+    <a href="https://docs.sunfounder.com/projects/elite-explorer-kit/it/latest/" target="_blank">Corsi di italiano online</a>
 
 
     
@@ -375,7 +379,7 @@ rst_epilog += """
  
 .. |link_Elite_kit| raw:: html
 
-    <a href="https://www.sunfounder.com/collections/arduino-kits/products/sunfounder-elite-explorer-kit-with-official-arduino-uno-r4-wifi?ref=tiktok1" target="_blank">Kauflink für Elite Explorer Kit</a>
+    <a href="https://www.sunfounder.com/collections/arduino-kits/products/sunfounder-elite-explorer-kit-with-official-arduino-uno-r4-wifi?ref=tiktok1" target="_blank">購入リンク： Elite Explorer Kit</a>
 
 .. |link_Elite_Explorer_kit| raw:: html
 
