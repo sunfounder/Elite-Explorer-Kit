@@ -113,7 +113,7 @@
    .. code-block:: arduino
     
       #include <DHT.h>
-      #define DHTPIN 2       // Define the pin used to connect the sensor
+      #define DHTPIN 11       // Define the pin used to connect the sensor
       #define DHTTYPE DHT11  // Define the sensor type
 
 #. DHTオブジェクトの作成。
