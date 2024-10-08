@@ -25,7 +25,9 @@ author = 'www.sunfounder.com'
 
 # -- sphinx_rtd_theme Theme options -----------------------------------------------------
 html_theme_options = {
-    'flyout_display': 'attached'
+    'flyout_display': 'attached',
+    'version_selector': False,
+    'language_selector': False,
 }
 
 # -- General configuration ---------------------------------------------------
