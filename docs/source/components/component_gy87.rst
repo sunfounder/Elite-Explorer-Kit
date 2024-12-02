@@ -33,9 +33,9 @@ El MPU6050 mide la aceleración y la velocidad angular en tres ejes x, y y z. El
 
 El módulo sensor GY-87 se utiliza comúnmente en aplicaciones como drones, robótica y otros proyectos que requieren información precisa de orientación. Es compatible con las placas Arduino y se puede interconectar fácilmente con ellas utilizando el protocolo de comunicación I2C.
 
-.. image:: img/GY-87-SCH.jpg
-    :align: center
-    :width: 100%
+.. .. image:: img/GY-87-SCH.jpg
+..     :align: center
+..     :width: 100%
 
 .. raw:: html
 
