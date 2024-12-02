@@ -33,9 +33,9 @@ Le MPU6050 mesure l'accélération et la vitesse angulaire sur trois axes x, y e
 
 Le module de capteur GY-87 est couramment utilisé dans des applications telles que les drones, la robotique et d'autres projets nécessitant des informations d'orientation précises. Il est compatible avec les cartes Arduino et peut être facilement interfacé avec elles en utilisant le protocole de communication I2C.
 
-.. image:: img/GY-87-SCH.jpg
-    :align: center
-    :width: 100%
+.. .. image:: img/GY-87-SCH.jpg
+..     :align: center
+..     :width: 100%
 
 .. raw:: html
 
