@@ -33,9 +33,9 @@ Der MPU6050 misst Beschleunigung und Winkelgeschwindigkeit in den drei Achsen x,
 
 Das GY-87-Sensormodul wird häufig in Anwendungen wie Drohnen, Robotik und anderen Projekten verwendet, die genaue Orientierungsinformationen benötigen. Es ist mit Arduino-Boards kompatibel und kann leicht über das I2C-Kommunikationsprotokoll mit ihnen verbunden werden.
 
-.. image:: img/GY-87-SCH.jpg
-    :align: center
-    :width: 100%
+.. .. image:: img/GY-87-SCH.jpg
+..     :align: center
+..     :width: 100%
 
 .. raw:: html
 
