@@ -33,9 +33,9 @@ MPU6050はx、y、zの3軸で加速度と角速度を測定します。QMC5883L�
 
 GY-87センサーモジュールは、ドローン、ロボティクス、正確な方向情報が必要な他のプロジェクトなどのアプリケーションで一般的に使用されます。Arduinoボードと互換性があり、I2C通信プロトコルを使用して簡単にインターフェースできます。
 
-.. image:: img/GY-87-SCH.jpg
-    :align: center
-    :width: 100%
+.. .. image:: img/GY-87-SCH.jpg
+..     :align: center
+..     :width: 100%
 
 .. raw:: html
 
