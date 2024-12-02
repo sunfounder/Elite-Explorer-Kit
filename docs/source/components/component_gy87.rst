@@ -33,9 +33,9 @@ L'MPU6050 misura accelerazione e velocità angolare su tre assi x, y e z. Il QMC
 
 Il modulo sensore GY-87 è comunemente utilizzato in applicazioni come droni, robotica e altri progetti che richiedono informazioni accurate sull'orientamento. È compatibile con le schede Arduino e può essere facilmente interfacciato con esse utilizzando il protocollo di comunicazione I2C.
 
-.. image:: img/GY-87-SCH.jpg
-    :align: center
-    :width: 100%
+.. .. image:: img/GY-87-SCH.jpg
+..     :align: center
+..     :width: 100%
 
 .. raw:: html
 
