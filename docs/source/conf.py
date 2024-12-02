@@ -25,7 +25,9 @@ author = 'www.sunfounder.com'
 
 # -- sphinx_rtd_theme Theme options -----------------------------------------------------
 html_theme_options = {
-    'flyout_display': 'attached'
+    'flyout_display': 'attached',
+    'version_selector': False,
+    'language_selector': False,
 }
 
 # -- General configuration ---------------------------------------------------
@@ -55,8 +57,6 @@ exclude_patterns = []
 #
 html_static_path = ['_static']
 html_theme = 'sphinx_rtd_theme'
-html_theme_path = [sphinx_rtd_theme.get_html_theme_path()]
-
 
 # SunFounder logo
 
@@ -93,7 +93,7 @@ html_css_files = [
 
 # Multi-language
 
-language = 'en' # Before running make html, set the language.
+language = 'it' # Before running make html, set the language.
 locale_dirs = ['locale/'] # .po files for other languages are placed in the locale/ folder.
 
 gettext_compact = False # Support for generating the contents of the folders inside source/ into other languages.
