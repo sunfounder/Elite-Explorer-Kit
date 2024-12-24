@@ -139,7 +139,7 @@ rst_epilog = """
 
 .. |link_download_arduino| raw:: html
 
-    <a href="https://www.arduino.cc/en/software" target="_blank">Arduino IDE 2.x Download Page</a>
+    <a href="https://www.arduino.cc/en/software" target="_blank">Arduino IDE 2.x ダウンロードページ</a>
 
 .. |link_install_arduino_linux| raw:: html
 
@@ -147,7 +147,7 @@ rst_epilog = """
 
 .. |link_install_arduino_lib| raw:: html
 
-    <a href="https://docs.arduino.cc/software/ide-v2/tutorials/ide-v2-installing-a-library" target="_blank"> Installing libraries in Arduino IDE 2</a>
+    <a href="https://docs.arduino.cc/software/ide-v2/tutorials/ide-v2-installing-a-library" target="_blank"> ライブラリのインストール Arduino IDE 2</a>
     
 .. |link_ascii| raw:: html
 
@@ -155,7 +155,7 @@ rst_epilog = """
 
 .. |link_led_matrix_editor| raw:: html
 
-    <a href="https://ledmatrix-editor.arduino.cc/" target="_blank">Arduino LED Matrix Editor</a>
+    <a href="https://ledmatrix-editor.arduino.cc/" target="_blank">Arduino LED マトリックスエディタ</a>
 
 .. |link_arduino_songs| raw:: html
 
@@ -191,7 +191,7 @@ rst_epilog = """
 
 .. |fastled_color| raw:: html
 
-    <a href="https://github.com/FastLED/FastLED/blob/bb23d6df297cdd0afeec5b7c38628f6d684648e9/src/pixeltypes.h#L662-L823" target="_blank">predefined colors</a> 
+    <a href="https://github.com/FastLED/FastLED/blob/bb23d6df297cdd0afeec5b7c38628f6d684648e9/src/pixeltypes.h#L662-L823" target="_blank">定義済みの色</a> 
 
 .. |link_r4_wifi_datasheet| raw:: html
 
@@ -203,7 +203,7 @@ rst_epilog = """
 
 .. |link_r4_Wifi_doc| raw:: html
 
-    <a href="https://docs.arduino.cc/hardware/uno-r4-wifi" target="_blank">Arduino UNO R4 WiFi Documentation</a> 
+    <a href="https://docs.arduino.cc/hardware/uno-r4-wifi" target="_blank">Arduino UNO R4 WiFi ドキュメント</a> 
 
 .. |link_r4_Wifi_cheatsheet| raw:: html
 
@@ -239,11 +239,11 @@ rst_epilog = """
 
 .. |link_r4_wifi| raw:: html
 
-    <a href="https://docs.arduino.cc/tutorials/uno-r4-wifi/wifi-examples" target="_blank">UNO R4 WiFi Network Examples</a> 
+    <a href="https://docs.arduino.cc/tutorials/uno-r4-wifi/wifi-examples" target="_blank">UNO R4 WiFi Network 例</a> 
 
 .. |link_update_firmware| raw:: html
 
-    <a href="https://forum.arduino.cc/t/radio-module-firmware-version-0-2-0-is-now-available/1147361#updating-the-firmware-on-your-board-1" target="_blank">Updating the Firmware on Your Board</a> 
+    <a href="https://forum.arduino.cc/t/radio-module-firmware-version-0-2-0-is-now-available/1147361#updating-the-firmware-on-your-board-1" target="_blank">ボードのファームウェアを更新する方法</a> 
 
 .. |link_appinventor| raw:: html
 
@@ -251,19 +251,19 @@ rst_epilog = """
 
 .. |link_appinventor_login| raw:: html
 
-    <a href="http://appinventor.mit.edu/explore/get-started" target="_blank">Get Started with MIT App Inventor</a>
+    <a href="http://appinventor.mit.edu/explore/get-started" target="_blank">～の始め方 MIT App Inventor</a>
 
 .. |link_sig_environmental_sensing| raw:: html
 
-    <a href="https://bitbucket.org/bluetooth-SIG/public/src/8a7ea26ae56d43e6fea88693232a01a78e28213e/assigned_numbers/uuids/service_uuids.yaml#lines-104:105" target="_blank">environmentalSensingService</a>
+    <a href="https://bitbucket.org/bluetooth-SIG/public/src/8a7ea26ae56d43e6fea88693232a01a78e28213e/assigned_numbers/uuids/service_uuids.yaml#lines-104:105" target="_blank">環境センシングサービス</a>
 
 .. |link_sig_temperature_humidity| raw:: html
 
-    <a href="https://bitbucket.org/bluetooth-SIG/public/src/8a7ea26ae56d43e6fea88693232a01a78e28213e/assigned_numbers/uuids/characteristic_uuids.yaml#lines-299:304" target="_blank">temperature and humidity</a>
+    <a href="https://bitbucket.org/bluetooth-SIG/public/src/8a7ea26ae56d43e6fea88693232a01a78e28213e/assigned_numbers/uuids/characteristic_uuids.yaml#lines-299:304" target="_blank">温度と湿度</a>
 
 .. |link_bluetooth_sig| raw:: html
 
-    <a href="https://www.bluetooth.com/specifications/assigned-numbers/" target="_blank">Bluetooth SIG</a>
+    <a href="https://www.bluetooth.com/specifications/assigned-numbers/" target="_blank">ブルートゥース SIG</a>
 
 .. |link_github_elite| raw:: html
 
@@ -279,7 +279,7 @@ rst_epilog = """
 
 .. |link_webhooks| raw:: html
 
-    <a href="https://ifttt.com/maker_webhooks/settings" target="_blank">Webhooks Settings</a>
+    <a href="https://ifttt.com/maker_webhooks/settings" target="_blank">Webhooks 設定</a>
 
 .. |link_hivemq| raw:: html
 
@@ -291,11 +291,11 @@ rst_epilog = """
 
 .. |link_discord_server| raw:: html
 
-    <a href="https://discord.com/invite/G7Q5UjDT7K" target="_blank">Discord Server</a>
+    <a href="https://discord.com/invite/G7Q5UjDT7K" target="_blank">Discordサーバー</a>
 
 .. |link_breadboard_tutorials| raw:: html
 
-    <a href="https://www.sciencebuddies.org/science-fair-projects/references/how-to-use-a-breadboard" target="_blank">How to Use a Breadboard - Science Buddies</a>
+    <a href="https://www.sciencebuddies.org/science-fair-projects/references/how-to-use-a-breadboard" target="_blank">ブレッドボードの使い方 - サイエンスバディーズ</a>
 
 .. |link_s8050_datasheet| raw:: html
 
@@ -388,190 +388,190 @@ rst_epilog += """
 
 .. |link_Uno_R3_buy| raw:: html
 
-    <a href="https://www.sunfounder.com/products/arduino-unor3-control-board" target="_blank">BUY</a>
+    <a href="https://www.sunfounder.com/products/arduino-unor3-control-board" target="_blank">購入</a>
 
 .. |link_esp8266_buy| raw:: html
 
-    <a href="https://www.sunfounder.com/products/esp01-esp-01s-programmer-adapter-serial-high-speed-esp8266-ch340g-usb-to-esp8266-serial-wireless-wifi-developent-board" target="_blank">BUY</a>
+    <a href="https://www.sunfounder.com/products/esp01-esp-01s-programmer-adapter-serial-high-speed-esp8266-ch340g-usb-to-esp8266-serial-wireless-wifi-developent-board" target="_blank">購入</a>
 
 .. |link_picow_buy| raw:: html
 
-    <a href="https://www.sunfounder.com/products/raspberry-pi-pico-w" target="_blank">BUY</a>
+    <a href="https://www.sunfounder.com/products/raspberry-pi-pico-w" target="_blank">購入</a>
     
 .. |link_led_buy| raw:: html
 
-    <a href="https://www.sunfounder.com/products/500pcs-5-colors-x-100pcs-5mm-leds-with-white-red-yellow-green-blue-colors-kit-box" target="_blank">BUY</a>
+    <a href="https://www.sunfounder.com/products/500pcs-5-colors-x-100pcs-5mm-leds-with-white-red-yellow-green-blue-colors-kit-box" target="_blank">購入</a>
 
 .. |link_resistor_buy| raw:: html
 
-    <a href="https://www.sunfounder.com/products/1-4w-resistor-assortment-kit-40-values-400pcs" target="_blank">BUY</a>
+    <a href="https://www.sunfounder.com/products/1-4w-resistor-assortment-kit-40-values-400pcs" target="_blank">購入</a>
 
 .. |link_wires_buy| raw:: html
 
-    <a href="https://www.sunfounder.com/products/560pcs-jumper-wire-kit-with-14-lengths" target="_blank">BUY</a>
+    <a href="https://www.sunfounder.com/products/560pcs-jumper-wire-kit-with-14-lengths" target="_blank">購入</a>
 
 .. |link_breadboard_buy| raw:: html
 
-    <a href="https://www.sunfounder.com/products/sunfounder-breadboard-kit" target="_blank">BUY</a>
+    <a href="https://www.sunfounder.com/products/sunfounder-breadboard-kit" target="_blank">購入</a>
 
 .. |link_rgb_led_buy| raw:: html
 
-    <a href="https://www.sunfounder.com/products/100pcs-5mm-4-pin-rgb-common-cathode-led" target="_blank">BUY</a>
+    <a href="https://www.sunfounder.com/products/100pcs-5mm-4-pin-rgb-common-cathode-led" target="_blank">購入</a>
 
 .. |link_button_buy| raw:: html
 
-    <a href="https://www.sunfounder.com/products/100pcs-6x6x5-mm-miniature-push-button" target="_blank">BUY</a>
+    <a href="https://www.sunfounder.com/products/100pcs-6x6x5-mm-miniature-push-button" target="_blank">購入</a>
 
 .. |link_capacitor_buy| raw:: html
 
-    <a href="https://www.sunfounder.com/products/ceramic-capacitor-assortment-kit-set-of-600-small-assorted-capacitors" target="_blank">BUY</a>
+    <a href="https://www.sunfounder.com/products/ceramic-capacitor-assortment-kit-set-of-600-small-assorted-capacitors" target="_blank">購入</a>
 
 .. |link_potentiometer_buy| raw:: html
 
-    <a href="https://www.sunfounder.com/products/10pcs-10k-ohm-trim-potentiometer-breadboard" target="_blank">BUY</a>
+    <a href="https://www.sunfounder.com/products/10pcs-10k-ohm-trim-potentiometer-breadboard" target="_blank">購入</a>
 
 .. |link_photoresistor_buy| raw:: html
 
-    <a href="https://www.sunfounder.com/products/100pcs-photoresistor-photo-light-sensitive-resistor-5516" target="_blank">BUY</a>
+    <a href="https://www.sunfounder.com/products/100pcs-photoresistor-photo-light-sensitive-resistor-5516" target="_blank">購入</a>
 
 .. |link_thermistor_buy| raw:: html
 
-    <a href="https://www.sunfounder.com/products/50pcs-ntc-thermistor-mf11-103-10k-ohm" target="_blank">BUY</a>
+    <a href="https://www.sunfounder.com/products/50pcs-ntc-thermistor-mf11-103-10k-ohm" target="_blank">購入</a>
 
 .. |link_transistor_buy| raw:: html
 
-    <a href="https://www.sunfounder.com/products/10-values-200pcs-power-supply-general-transistor-npn-pnp-assortment-kit-bc337-bc327-2n2222-2n2907-2n3904-2n3906-s8050-s8550-a1015-c1815-set" target="_blank">BUY</a>
+    <a href="https://www.sunfounder.com/products/10-values-200pcs-power-supply-general-transistor-npn-pnp-assortment-kit-bc337-bc327-2n2222-2n2907-2n3904-2n3906-s8050-s8550-a1015-c1815-set" target="_blank">購入</a>
 
 .. |link_relay_buy| raw:: html
 
-    <a href="https://www.sunfounder.com/products/10pcs-srs-05vdc-sl-c-5v-relay-coil-spdt-6-pin-pcb-electromagnetic-power-relay" target="_blank">BUY</a>
+    <a href="https://www.sunfounder.com/products/10pcs-srs-05vdc-sl-c-5v-relay-coil-spdt-6-pin-pcb-electromagnetic-power-relay" target="_blank">購入</a>
 
 .. |link_passive_buzzer_buy| raw:: html
 
-    <a href="https://www.sunfounder.com/products/20pcs-3-5v-2-terminals-passive-buzzer" target="_blank">BUY</a>
+    <a href="https://www.sunfounder.com/products/20pcs-3-5v-2-terminals-passive-buzzer" target="_blank">購入</a>
 
 .. |link_ws2812_buy| raw:: html
 
-    <a href="https://www.sunfounder.com/products/2pcs-8-bit-ws2812b-rgb-led-strip-5050smd-individual-addressable-60pixels-m" target="_blank">BUY</a>
+    <a href="https://www.sunfounder.com/products/2pcs-8-bit-ws2812b-rgb-led-strip-5050smd-individual-addressable-60pixels-m" target="_blank">購入</a>
 
 .. |link_i2clcd1602_buy| raw:: html
 
-    <a href="https://www.sunfounder.com/products/i2c-lcd1602-module" target="_blank">BUY</a>
+    <a href="https://www.sunfounder.com/products/i2c-lcd1602-module" target="_blank">購入</a>
 
 .. |link_motor_buy| raw:: html
 
-    <a href="https://www.sunfounder.com/products/5pcs-1-5v-6v-type-miniature-dc-motors" target="_blank">BUY</a>
+    <a href="https://www.sunfounder.com/products/5pcs-1-5v-6v-type-miniature-dc-motors" target="_blank">購入</a>
 
 .. |link_servo_buy| raw:: html
 
-    <a href="https://www.sunfounder.com/products/sg90-micro-digital-servo" target="_blank">BUY</a>
+    <a href="https://www.sunfounder.com/products/sg90-micro-digital-servo" target="_blank">購入</a>
 
 .. |link_keypad_buy| raw:: html
 
-    <a href="https://www.sunfounder.com/products/membrane-switch-keypad" target="_blank">BUY</a>
+    <a href="https://www.sunfounder.com/products/membrane-switch-keypad" target="_blank">購入</a>
 
 .. |link_74hc595_buy| raw:: html
 
-    <a href="https://www.sunfounder.com/products/10-pcs-ic-74hc595-74595-sn74hc595n-8-bit-shift-register-dip-16" target="_blank">BUY</a>
+    <a href="https://www.sunfounder.com/products/10-pcs-ic-74hc595-74595-sn74hc595n-8-bit-shift-register-dip-16" target="_blank">購入</a>
 
 .. |link_7segment_buy| raw:: html
 
-    <a href="https://www.sunfounder.com/products/30pcs-0-56-7-segment-led" target="_blank">BUY</a>
+    <a href="https://www.sunfounder.com/products/30pcs-0-56-7-segment-led" target="_blank">購入</a>
 
 .. |link_ultrasonic_buy| raw:: html
 
-    <a href="https://www.sunfounder.com/products/5pcs-hc-sr04-ultrasonic-module-distance-sensor" target="_blank">BUY</a>
+    <a href="https://www.sunfounder.com/products/5pcs-hc-sr04-ultrasonic-module-distance-sensor" target="_blank">購入</a>
 
 .. |link_dht22_buy| raw:: html
 
-    <a href="https://www.sunfounder.com/products/dht22-am2302-digital-temperature-and-humidity-sensor" target="_blank">BUY</a>
+    <a href="https://www.sunfounder.com/products/dht22-am2302-digital-temperature-and-humidity-sensor" target="_blank">購入</a>
 
 .. |link_receiver_buy| raw:: html
 
-    <a href="https://www.sunfounder.com/products/infrared-receiver-module" target="_blank">BUY</a>
+    <a href="https://www.sunfounder.com/products/infrared-receiver-module" target="_blank">購入</a>
 
 .. |link_rfid_buy| raw:: html
 
-    <a href="https://www.sunfounder.com/products/rfid-kit-blue" target="_blank">BUY</a>
+    <a href="https://www.sunfounder.com/products/rfid-kit-blue" target="_blank">購入</a>
 
 .. |link_pir_buy| raw:: html
 
-    <a href="https://www.sunfounder.com/products/hcsr501-infrared-sensor?_pos=1&_sid=2bd5fd3cc&_ss=r" target="_blank">BUY</a>
+    <a href="https://www.sunfounder.com/products/hcsr501-infrared-sensor?_pos=1&_sid=2bd5fd3cc&_ss=r" target="_blank">購入</a>
 
 .. |link_gpio_board_buy| raw:: html
 
-    <a href="https://www.sunfounder.com/products/t-shape-gpio-extension-board" target="_blank">BUY</a>
+    <a href="https://www.sunfounder.com/products/t-shape-gpio-extension-board" target="_blank">購入</a>
 
 .. |link_led_matrix_buy| raw:: html
 
-    <a href="https://www.sunfounder.com/products/aceirmc-4pcs-max7219-dot-matrix-display-module-single-chip-control-led-module-diy-kit-for-arduino-with-5pin-line" target="_blank">BUY</a>
+    <a href="https://www.sunfounder.com/products/aceirmc-4pcs-max7219-dot-matrix-display-module-single-chip-control-led-module-diy-kit-for-arduino-with-5pin-line" target="_blank">購入</a>
 
 .. |link_diode_buy| raw:: html
 
-    <a href="https://www.sunfounder.com/products/100pcs-1n4007-4007-1a-1000v-do-41-high-quality-rectifier-diode-in4007-1n4007" target="_blank">BUY</a>
+    <a href="https://www.sunfounder.com/products/100pcs-1n4007-4007-1a-1000v-do-41-high-quality-rectifier-diode-in4007-1n4007" target="_blank">購入</a>
 
 .. |link_touch_buy| raw:: html
 
-    <a href="https://www.sunfounder.com/products/ttp223-touch-sensor-module" target="_blank">BUY</a>
+    <a href="https://www.sunfounder.com/products/ttp223-touch-sensor-module" target="_blank">購入</a>
 
 .. |link_slide_switch_buy| raw:: html
 
-    <a href="https://www.sunfounder.com/products/10pcs-high-knob-3-pin-2-position-breadboard-friendly-spdt-slide-switch" target="_blank">BUY</a>    
+    <a href="https://www.sunfounder.com/products/10pcs-high-knob-3-pin-2-position-breadboard-friendly-spdt-slide-switch" target="_blank">購入</a>    
 
 .. |link_rotary_encoder_buy| raw:: html
 
-    <a href="https://www.sunfounder.com/products/rotary-encoder-module" target="_blank">BUY</a>
+    <a href="https://www.sunfounder.com/products/rotary-encoder-module" target="_blank">購入</a>
 
 .. |link_humiture_buy| raw:: html
 
-    <a href="https://www.sunfounder.com/products/humiture-sensor-module" target="_blank">BUY</a>
+    <a href="https://www.sunfounder.com/products/humiture-sensor-module" target="_blank">購入</a>
 
 .. |link_reed_switch_buy| raw:: html
 
-    <a href="https://www.sunfounder.com/products/reed-switch-module" target="_blank">BUY</a>
+    <a href="https://www.sunfounder.com/products/reed-switch-module" target="_blank">購入</a>
 
 .. |link_obstacle_avoidance_buy| raw:: html
 
-    <a href="https://www.sunfounder.com/products/obstacle-avoidance-sensor" target="_blank">BUY</a>
+    <a href="https://www.sunfounder.com/products/obstacle-avoidance-sensor" target="_blank">購入</a>
 
 .. |link_mpu6050_buy| raw:: html
 
-    <a href="https://www.sunfounder.com/products/3pcs-gy-521-mpu-6050-mpu6050-3-axis-accelerometer-gyroscope-module-6-dof-6-axis-accelerometer-gyroscope-sensor-module-16-bit-ad-converter-data-output-iic-i2c-for-arduino" target="_blank">BUY</a>
+    <a href="https://www.sunfounder.com/products/3pcs-gy-521-mpu-6050-mpu6050-3-axis-accelerometer-gyroscope-module-6-dof-6-axis-accelerometer-gyroscope-sensor-module-16-bit-ad-converter-data-output-iic-i2c-for-arduino" target="_blank">購入</a>
     
 .. |link_mfrc522_rfid_buy| raw:: html
 
-    <a href="https://www.sunfounder.com/products/rfid-kit-blue" target="_blank">BUY</a>
+    <a href="https://www.sunfounder.com/products/rfid-kit-blue" target="_blank">購入</a>
 
 .. |link_camera_buy| raw:: html
 
-    <a href="https://www.sunfounder.com/products/5mp-1080p-camera" target="_blank">BUY</a>   
+    <a href="https://www.sunfounder.com/products/5mp-1080p-camera" target="_blank">購入</a>   
 
 .. |link_track_buy| raw:: html
 
-    <a href="https://www.sunfounder.com/products/tracking-sensor-module" target="_blank">BUY</a>       
+    <a href="https://www.sunfounder.com/products/tracking-sensor-module" target="_blank">購入</a>       
 
 .. |link_soil_moisture_buy| raw:: html
 
-    <a href="https://www.sunfounder.com/products/capacitive-soil-moisture-sensor-module?_pos=1&_sid=73e23dc8a&_ss=r" target="_blank">BUY</a>       
+    <a href="https://www.sunfounder.com/products/capacitive-soil-moisture-sensor-module?_pos=1&_sid=73e23dc8a&_ss=r" target="_blank">購入</a>       
 
 .. |link_l298n_buy| raw:: html
 
-    <a href="https://www.sunfounder.com/products/l298n-motor-driver-board" target="_blank">BUY</a>
+    <a href="https://www.sunfounder.com/products/l298n-motor-driver-board" target="_blank">購入</a>
 
 .. |link_oled_buy| raw:: html
 
-    <a href="https://www.sunfounder.com/products/0-96-oled-display-module-ssd1306-128x64-blue-display" target="_blank">BUY</a>   
+    <a href="https://www.sunfounder.com/products/0-96-oled-display-module-ssd1306-128x64-blue-display" target="_blank">購入</a>   
 
 .. |link_joystick_buy| raw:: html
 
-    <a href="https://www.sunfounder.com/products/dual-axis-button-joystick-module-ps2-game" target="_blank">BUY</a>      
+    <a href="https://www.sunfounder.com/products/dual-axis-button-joystick-module-ps2-game" target="_blank">購入</a>      
 
 .. |link_stepper_motor_buy| raw:: html
 
-    <a href="https://www.sunfounder.com/products/dc-5v-stepper-motor-28byj-48-uln2003-drive-module-5-line-4-phase" target="_blank">BUY</a>      
+    <a href="https://www.sunfounder.com/products/dc-5v-stepper-motor-28byj-48-uln2003-drive-module-5-line-4-phase" target="_blank">購入</a>      
 
 .. |link_realy_buy| raw:: html
 
-    <a href="https://www.sunfounder.com/products/10pcs-srs-05vdc-sl-c-5v-relay-coil-spdt-6-pin-pcb-electromagnetic-power-relay" target="_blank">BUY</a>   
+    <a href="https://www.sunfounder.com/products/10pcs-srs-05vdc-sl-c-5v-relay-coil-spdt-6-pin-pcb-electromagnetic-power-relay" target="_blank">購入</a>   
 
 """
