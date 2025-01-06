@@ -97,7 +97,7 @@ MPU6050
 
 #. ライブラリのインクルード
 
-   センサーのインターフェースと通信のために、 ``Adafruit_MPU6050``, ``Adafruit_Sensor``, ``Wire`` ライブラリが含まれています。
+   センサーのインターフェースと通信のために、 ``Adafruit_MPU6050`` , ``Adafruit_Sensor`` , ``Wire`` ライブラリが含まれています。
 
    .. code-block:: arduino
 

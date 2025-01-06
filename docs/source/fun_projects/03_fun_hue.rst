@@ -100,7 +100,7 @@ HueDial
 
 1. グローバル変数の定義：
 
-   ``redPin``, ``greenPin``, ``bluePin``：それぞれ赤、緑、青のLEDに接続されたPWMピンを定義します。
+   ``redPin`` , ``greenPin`` , ``bluePin``：それぞれ赤、緑、青のLEDに接続されたPWMピンを定義します。
    ``KNOB_PIN``：回転ノブに接続されたアナログ入力ピンを定義します。
 
 2. ``setup()``：

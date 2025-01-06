@@ -194,7 +194,7 @@ PWM値が小さいほど、電圧に変換された後の値も小さくなり�
 
     }
 
-赤、緑、青の3つのunsigned char変数を定義し、それらの値を ``redPin``、 ``greenPin``、 ``bluePin`` に書き込みます。例えば、color(128,0,128)は ``redPin`` に128、 ``greenPin`` に0、 ``bluePin`` に128を書き込むことを意味し、結果としてLEDが紫色に点滅します。
+赤、緑、青の3つのunsigned char変数を定義し、それらの値を ``redPin`` 、 ``greenPin`` 、 ``bluePin`` に書き込みます。例えば、color(128,0,128)は ``redPin`` に128、 ``greenPin`` に0、 ``bluePin`` に128を書き込むことを意味し、結果としてLEDが紫色に点滅します。
 
 **analogWrite()**：アナログ値（PWM波）をピンに書き込みます。アナログピンとは関係ありませんが、PWMピン専用です。 ``analogWrite()`` を呼び出す前にピンを出力として設定するために ``pinMode()`` を呼び出す必要はありません。
 

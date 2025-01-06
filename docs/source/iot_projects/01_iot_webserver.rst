@@ -51,8 +51,8 @@
 
    * ``#include 「WiFiS3.h」``：WiFi接続および管理のためのWiFiライブラリを含みます。このライブラリはArduino UNO R4 Coreに含まれているので、追加のインストールは必要ありません。
    * ``#include 「arduino_secrets.h」``：SSIDやパスワードなどの機密WiFi接続データを含みます。
-   * ``ssid``, ``pass``, ``keyIndex``：WiFi接続に使用されるネットワーク認証情報です。
-   * ``led``, ``status``, ``server``：LEDピン、WiFiステータス、ウェブサーバーオブジェクトを定義します。
+   * ``ssid`` , ``pass`` , ``keyIndex``：WiFi接続に使用されるネットワーク認証情報です。
+   * ``led`` , ``status`` , ``server``：LEDピン、WiFiステータス、ウェブサーバーオブジェクトを定義します。
 
 2. ``setup()``：
 

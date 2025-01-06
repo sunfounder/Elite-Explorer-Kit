@@ -154,7 +154,7 @@ BLEネットワークにおける **中央デバイス** は、近くの周辺�
 
    - Include the ArduinoBLE library.
    - Define the BLE service and characteristic. 
-   - Assign the built-in LED pin to ``ledPin``.
+   - Assign the built-in LED pin to ``ledPin`` .
 
    .. raw:: html
 
