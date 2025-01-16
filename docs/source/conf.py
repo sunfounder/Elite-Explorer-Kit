@@ -30,6 +30,14 @@ html_theme_options = {
     'language_selector': False,
 }
 
+html_context = {
+    "display_github": True, # Integrate GitHub
+    "github_user": "sunfounder", # Username
+    "github_repo": "elite-explorer-kit", # Repo name
+    "github_version": "docs-it", # Version
+    "conf_py_path": "/docs/source/", # Path in the checkout to the docs root
+}
+
 # -- General configuration ---------------------------------------------------
 
 # Add any Sphinx extension module names here, as strings. They can be
